@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Pedro
 
 ### **Estudiante de Ingeniería de Sistemas y Aspirante a Data Scientist** 📈
 
@@ -43,10 +43,10 @@ Aquí puedes mostrar las tecnologías y lenguajes que manejas. Usaremos **badges
 Puedes incrustar imágenes generadas automáticamente con tus estadísticas de GitHub.
 
 ### 1. GitHub Stats
-[![Tu Perfil de GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tu Perfil de GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaive-alt&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 2. Lenguajes Más Usados
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vaive-alt&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -57,13 +57,10 @@ Puedes incrustar imágenes generadas automáticamente con tus estadísticas de G
 *Reemplaza los enlaces con tus perfiles.*
 
 <p align="left">
-    <a href="[TU ENLACE DE LINKEDIN]" target="_blank">
+    <a href="www.linkedin.com/in/pedro-huaman" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="[TU CORREO ELECTRÓNICO]" target="_blank">
+    <a href="mauricis2000@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-    </a>
-    <a href="[TU SITIO WEB O PORTAFOLIO (si tienes uno)]" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge">
     </a>
 </p>
